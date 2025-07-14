@@ -3,7 +3,7 @@ const TelegramBot = require('node-telegram-bot-api');
 require('dotenv').config();
 
 // Cấu hình
-const TELEGRAM_TOKEN = process.env.TELEGRAM_TOKEN || 'YOUR_TELEGRAM_BOT_TOKEN';
+const TELEGRAM_TOKEN = process.env.TELEGRAM_TOKEN || '7451739544:AAEAog4UiF0M2P-v1sOIbL8IyAAhAeKtIoM';
 const API_URL = 'https://apihitclub.up.railway.app/api/taixiumd5';
 
 // Khởi tạo bot Telegram
