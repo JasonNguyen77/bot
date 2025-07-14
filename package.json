@@ -1,0 +1,16 @@
+{
+  "name": "tai-xiu-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram dự đoán Tài Xỉu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
